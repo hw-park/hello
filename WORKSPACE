@@ -15,12 +15,6 @@ git_repository(
 )
 
 git_repository(
-    name = "com_github_grpc_grpc",
-    remote = "https://github.com/grpc/grpc.git",
-    branch = "master",
-)
-
-git_repository(
     name = "com_google_absl",
     remote = "https://github.com/abseil/abseil-cpp.git",
     branch = "master",
@@ -30,10 +24,4 @@ git_repository(
     name = "com_google_googletest",
     remote = "https://github.com/google/googletest.git",
     branch = "main",
-)
-
-git_repository(
-    name = "com_google_protobuf",
-    remote = "https://github.com/protocolbuffers/protobuf.git",
-    branch = "master",
 )
