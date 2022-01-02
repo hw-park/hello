@@ -1,4 +1,4 @@
-workspace(name = "vscode_hello")
+workspace(name = "hello")
 
 load("@bazel_tools//tools/build_defs/repo:git.bzl", "git_repository")
 
