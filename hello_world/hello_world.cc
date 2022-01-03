@@ -4,7 +4,7 @@
 
 namespace hello_world {
 
-std::string getHelloWorldString() {
+std::string getHelloWorldStrin() {
   return absl::StrCat("Hello, ", "World.");
 }
 
