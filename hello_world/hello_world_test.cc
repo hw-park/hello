@@ -10,4 +10,4 @@ TEST(HelloWorldTest, GetHelloWorldStringWorks) {
 }
 
 }
-}
+}  // namespace hello_world
