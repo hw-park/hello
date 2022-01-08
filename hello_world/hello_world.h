@@ -1,5 +1,5 @@
-#ifndef PINE_HELLO_WORLD_HELLO_WORLD_H_
-#define PINE_HELLO_WORLD_HELLO_WORLD_H_
+#ifndef HELLO_WORLD_HELLO_WORLD_H_
+#define HELLO_WORLD_HELLO_WORLD_H_
 
 #include <string>
 
@@ -9,4 +9,4 @@ std::string getHelloWorldString();
 
 }
 
-#endif //PINE_HELLO_WORLD_HELLO_WORLD_H_
+#endif
