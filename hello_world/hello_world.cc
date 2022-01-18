@@ -8,4 +8,4 @@ std::string getHelloWorldString() {
   return absl::StrCat("Hello, ", "World.");
 }
 
-} // namespace hello_world
+}  // namespace hello_world

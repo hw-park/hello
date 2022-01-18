@@ -9,6 +9,6 @@ TEST(HelloWorldTest, GetHelloWorldStringWorks) {
   EXPECT_EQ(getHelloWorldString(), "Hello, World.");
 }
 
-} // namespace
-} // namespace hello_world
+}  // namespace
+}  // namespace hello_world
 
